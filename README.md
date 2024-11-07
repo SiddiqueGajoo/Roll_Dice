@@ -1,4 +1,11 @@
-# dice_roller
+# My First Flutter Dice Roll App
 
-A simple Flutter app that simulates rolling a pair of dice. Each time you tap the "Roll Dice" button, the app generates random numbers and displays the corresponding dice images
-It's myy first Flutter App
+ This is my first Flutter app! It's a simple dice rolling game. When you tap the "Roll Dice" button, two random numbers are generated, and the app displays the corresponding dice images.
+
+What I Learned:
+
+- Flutter Basics: I learned about the basics of Flutter, like how to build layouts with widgets and manage the state of the app.
+- Widgets: I used different widgets to create the user interface, including buttons and image displays.
+- Random Number Generation: I figured out how to use Dart's dart:math library to generate random numbers for the dice.
+- Custom Widgets: I created reusable custom widgets to make my code more organized.
+- Gradient : Also Add Gradient as a screen color
