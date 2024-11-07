@@ -7,5 +7,7 @@ What I Learned:
 - Flutter Basics: I learned about the basics of Flutter, like how to build layouts with widgets and manage the state of the app.
 - Widgets: I used different widgets to create the user interface, including buttons and image displays.
 - Random Number Generation: I figured out how to use Dart's dart:math library to generate random numbers for the dice.
+- Variables: Dart Variables and Value types, Const & Final Variables
 - Custom Widgets: I created reusable custom widgets to make my code more organized.
-- Gradient : Also Add Gradient as a screen color
+- Gradient: Also Add Gradient as a screen color,Also about Genrics,Lists
+- Classes: I learn also about Dart Classes and work with constructor Functions, Named & Positional Arguments
